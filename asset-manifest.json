@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AndresTunes/static/css/main.dcd0d27c.css",
+    "main.js": "/AndresTunes/static/js/main.e19a0a63.js",
+    "index.html": "/AndresTunes/index.html",
+    "main.dcd0d27c.css.map": "/AndresTunes/static/css/main.dcd0d27c.css.map",
+    "main.e19a0a63.js.map": "/AndresTunes/static/js/main.e19a0a63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd0d27c.css",
+    "static/js/main.e19a0a63.js"
+  ]
+}

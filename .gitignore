@@ -1,0 +1,26 @@
+# Ignorar archivos de entorno (como .env)
+.env
+*.env
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar directorios de dependencias
+node_modules/
+vendor/
+.venv/
+
+# Ignorar archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos compilados/binary
+*.exe
+*.out
+*.class
+*.dll
+*.so
+
+# Ignorar directorios de IDE
+.vscode/
+.idea/
