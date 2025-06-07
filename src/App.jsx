@@ -26,3 +26,16 @@ function App() {
 
 export default App;
 
+import SearchBar from './components/SearchBar';
+
+function App() {
+  return (
+    <div>
+      <h1>🎵 AndresTunes</h1>
+      <SearchBar />
+    </div>
+  );
+}
+
+export default App;
+
