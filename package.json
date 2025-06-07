@@ -1,1 +1,3 @@
-
+"scripts": {
+  "deploy": "vite build && vite-gh-pages"
+}
